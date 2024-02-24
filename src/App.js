@@ -52,7 +52,7 @@ function App() {
         </nav>
       </header>
       <div className='content'>
-      { (showResult) ? <div> </div> :<div><h1>iabetic Prediction & Accuracy Checker</h1>
+      { (showResult) ? <div> </div> :<div><h1>Diabetic Prediction & Accuracy Checker</h1>
         <h3>Predicting type-2 diabetes using maching learning</h3>
         <p>Welcome to Diabetic Prediction & Accurracy checker (DPAC) The purpose of this tool is to help predict the chances of a patient having diabetes.
           This is not a diagnostic tool. This tool allows you to enter a variety of factors related to your health in order to help you narrow the potential of becoming diabetic and take the appriopriate measures.
